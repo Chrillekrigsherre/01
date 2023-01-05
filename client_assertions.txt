@@ -1,0 +1,20 @@
+----- 31/12/2022 14:07:48 - Chrille Krigsherre (127.0.0.1) -----
+Debug Assertion 7.72 Talk.cpp 81
+Sat Dec 31 14:07:34 2022
+Windows Version: 6.2 build 9200 on 2
+Graphic Engine: 2
+Last Packet Types: 163 108 180 106 106 108 140 132 180 131
+Last Packet: 058 000 108 251 003 000 004 007 001 106 251 003 000 004 007 070
+Player Position: [1020,1025,7]
+Player.cpp 383: exception occurred, reason:
+Player.cpp 456: exception occurred, reason:
+Control.cpp 1560: exception occurred (Type = 0), reason:
+Control.cpp 366: exception occurred (Force?1:0 = 0), reason:
+MainWindow.cpp 127: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 1601: exception occurred (Surface = 1), reason:
+ConsoleWindow.cpp 794: exception occurred, reason:
+GUI.cpp 1424: exception occurred, reason:
+ConsoleWindow.cpp 148: exception occurred, reason:
+ConsoleWindow.cpp 379: exception occurred, reason:
+Talk.cpp 81: none is talking
+Comment: 
